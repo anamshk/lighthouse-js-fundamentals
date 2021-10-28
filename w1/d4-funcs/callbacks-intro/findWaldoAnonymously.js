@@ -15,4 +15,4 @@ findWaldo(["Alice", "Bob", "Waldo", "Winston"], function(index) {
   console.log("Waldo is located at:", index);
 });
 
-//Found Waldo at index 2!
+//Waldo is located at: 2
